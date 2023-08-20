@@ -80,7 +80,7 @@ void Shellminator::clear() {
 
 }
 
-void Shellminator::setFormatFunc( Stream *stream_p, int firstArg, ... ){
+void Shellminator::setFormat_mFunc( Stream *stream_p, int firstArg, ... ){
 
     va_list list;
     int next;
@@ -113,7 +113,7 @@ void Shellminator::formatFunc( int firstArg, ... ){
 
     va_start( args, firstArg );
 
-    setFormatFunc( channel, firstArg, args );
+    setFormat_mFunc( channel, firstArg, args );
 
     va_end( args );
 
