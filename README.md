@@ -2,7 +2,7 @@
   <img src="docs/images/logo.svg" height="80px" alt="Shellminator" />
 </h1>
 
-**Shellminator* is a lightweight terminal interface for microcontroller projects.
+**Shellminator** is a lightweight terminal interface for microcontroller projects.
 It is Arduino compatible out of box and designed to be easily usable for makers
 and hobbyists. With this library, you can add a modern command-line functionality
 to your projects and extend the functionality to a new level.

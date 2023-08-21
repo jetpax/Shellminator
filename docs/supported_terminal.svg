@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="440"
+   viewBox="0 0 79.374999 116.41667"
+   version="1.1"
+   id="svg1052"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="supported_terminal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1054"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4770342"
+     inkscape:cx="200.06307"
+     inkscape:cy="122.54286"
+     inkscape:window-width="1536"
+     inkscape:window-height="793"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1049" />
+  <g
+     inkscape:label="Réteg 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#2e4053;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;paint-order:markers stroke fill"
+       id="rect1225"
+       width="79.375"
+       height="116.41667"
+       x="0"
+       y="0"
+       ry="3.880969" />
+    <circle
+       style="fill:#ff5252;fill-opacity:1;stroke:none;stroke-width:0.451134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;paint-order:markers stroke fill"
+       id="path1997"
+       cx="6"
+       cy="6"
+       r="2" />
+    <circle
+       style="fill:#ecac15;fill-opacity:1;stroke:none;stroke-width:0.451134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;paint-order:markers stroke fill"
+       id="path1997-3"
+       cx="12"
+       cy="6"
+       r="2" />
+    <circle
+       style="fill:#aeff52;fill-opacity:1;stroke:none;stroke-width:0.451134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;paint-order:markers stroke fill"
+       id="path1997-6"
+       cx="18"
+       cy="6"
+       r="2" />
+    <rect
+       style="fill:#0f151b;fill-opacity:1;stroke:none;stroke-width:0.262967;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;paint-order:markers stroke fill"
+       id="rect4422"
+       width="71"
+       height="100"
+       x="4"
+       y="11"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.01645px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.150412"
+       x="6.4729004"
+       y="18.615149"
+       id="text6981"><tspan
+         sodipodi:role="line"
+         id="tspan6979"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Alef;-inkscape-font-specification:'Alef, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.150412"
+         x="6.4729004"
+         y="18.615149"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Alef;-inkscape-font-specification:'Alef, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ff00;stroke-width:0.150412"
+   id="tspan6983">UNO</tspan>:<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Alef;-inkscape-font-specification:'Alef, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.150412"
+   id="tspan6985">~$ </tspan>Requirements</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01645px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.150412"
+       x="14.699178"
+       y="25.871021"
+       id="text6981-2"><tspan
+         sodipodi:role="line"
+         id="tspan7042"
+         x="14.699178"
+         y="25.871021">~ 500Byte RAM</tspan><tspan
+         sodipodi:role="line"
+         id="tspan7044"
+         x="14.699178"
+         y="33.391582">~ 15kByte FLASH</tspan></text>
+  </g>
+</svg>
